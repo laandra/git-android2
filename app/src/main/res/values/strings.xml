@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">git-android2</string>
+    <string-array name="summary">
+        <item>1. poglavje</item>
+        <item>2. poglavje</item>
+        <item>3. poglavje</item>
+    </string-array>
+</resources>
